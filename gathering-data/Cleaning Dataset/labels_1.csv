@@ -1,0 +1,268 @@
+image_path,label
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Coprinus_comatus/Coprinus comatus_104574.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Tapinella_atrotomentosa/Tapinella atrotomentosa_110506.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Mycena_inclinata/2238575851-259106.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Amanita_muscaria/2382324478-42862.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Suillellus_queletii/2238214426-232977.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Platismatia_glauca/Platismatia glauca_26203.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Geastrum_michelianum/2413147900-191984.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Ceriporiopsis_resinascens/2238485918-20583.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Amanita_porphyria/Amanita porphyria_28728.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Pseudohydnum_gelatinosum/2238514751-247437.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Cantharellus_subalbidus/Cantharellus subalbidus_230208.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Cystoderma_amianthinum/Cystoderma amianthinum_230810.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Hypholoma_fasciculare/2238480349-93813.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Boletus_auripes/Boletus auripes_136829.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Melanelixia_subaurifera/2449443905-198896.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Parasola_leiocephala/Parasola leiocephala_77191.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Dermatocarpon_muhlenbergii/Dermatocarpon muhlenbergii_7810.jpg,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Gliophorus_laetus/Gliophorus laetus_218465.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Russula_brevipes/Russula brevipes_105164.jpg,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Deconica_horizontalis/2986402367-371260.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Lepista_sordida/2430664789-122355.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Pleurosticta_acetabulum/2608812018-57387.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Cladonia_evansii/Cladonia evansii_112555.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Ganoderma_lucidum/2238497664-96450.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Gyroporus_castaneus/2238506741-246071.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Psilocybe_heimii/Psilocybe heimii_193396.jpg,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Xylaria/Xylaria_169233.jpg,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Gymnopilus_penetrans/2238574238-36226.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Sutorius_eximius/Sutorius eximius_216190.jpg,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Picipes_melanopus/2238558311-255547.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Hygrocybe_miniata/2238397440-163118.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Hygrophorus_eburneus/Hygrophorus eburneus_13329.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Lactarius_salmonicolor/Lactarius salmonicolor_64043.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Leucoagaricus_barssii/Leucoagaricus barssii_12553.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Cerioporus_squamosus/2821593337-358231.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Cortinarius_infractus/2238199200-158195.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Bolbitius_titubans/2812985325-207655.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Boletus_patrioticus/Boletus patrioticus_191781.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Amanita_muscaria/2981238393-71954.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Amanita_citrina/2898633350-217173.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Hygrocybe_acutoconica/2238468732-315960.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Hygrocybe_insipida/2981239393-72001.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Amanita_muscaria/2898618444-142235.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Hypholoma_fasciculare/2883263363-67562.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Dacrymyces_lacrymalis/2851429320-209888.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Pleurotus_ostreatus/2237852208-65.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Stropharia_ambigua/Stropharia ambigua_252422.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Psathyrella_bipellis/2237860036-224425.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Circinaria_caesiocinerea/2816355305-207947.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Ceratiomyxa_fruticulosa/2238551130-180192.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Sebacina_grisea/2238540010-178312.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Mycena_inclinata/Mycena inclinata_70046.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Hygrophoropsis_aurantiaca/2238577892-334880.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Cladonia_pyxidata/2237852599-74798.JPG,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Gymnopus_subsulphureus/Gymnopus subsulphureus_80939.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Pluteus_cinereofuscus/2237928135-151635.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Lactarius_subdulcis/2237919253-3101.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Aureoboletus_flaviporus/Aureoboletus flaviporus_178934.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Phanerochaete_sordida/Phanerochaete sordida_42853.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Leucocoprinus_birnbaumii/Leucocoprinus birnbaumii_115980.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Russula_modesta/Russula modesta_78778.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Pyrrhospora_quernea/Pyrrhospora quernea_54426.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Leccinum_scabrum/2238555975-181132.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Amanita_rhacopus/Amanita rhacopus_96046.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Mycena_leucogala/Mycena leucogala_73568.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Mycena_haematopus/2238552425-180502.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Russula_xerampelina/2424123384-120075.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Russula_compacta/Russula compacta_226917.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Daedaleopsis_confragosa/2549106203-53305.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Geastrum_nanum/Geastrum nanum_75698.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Leucoagaricus_rubrotinctus/Leucoagaricus rubrotinctus_241104.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Gymnopus_semihirtipes/Gymnopus semihirtipes_183662.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Amanita/Amanita_203978.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Psilocybe_neoxalapensis/Psilocybe neoxalapensis_90845.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Hypoxylon_macrocarpum/2238580869-112239.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Chlorophyllum_hortense/Chlorophyllum hortense_169353.jpg,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Hemileccinum_impolitum/2238374551-236261.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Phallus_duplicatus/Phallus duplicatus_21042.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Psilocybe_fimetaria/2238484385-168654.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Tylopilus_felleus/2818070301-282812.JPG,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Macrocybe_titans/Macrocybe titans_214550.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Lactarius_rufus/2238570488-35485.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Phaeolus_schweinitzii/2238565231-256942.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Phragmidium_violaceum/2521519551-275090.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Cortinarius_traganus/Cortinarius traganus_68876.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Scytinostroma_hemidichophyticum/2238485664-94656.JPG,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Cortinarius/Cortinarius_12631.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Cladonia_chlorophaea/Cladonia chlorophaea_5507.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Reticularia_lycoperdon/2598726188-57221.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Physcia_adscendens/2238550786-253996.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Lecanora_chlarotera/2237862174-76823.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Mensularia_nodulosa/2238525999-101062.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Phlebia_radiata/Phlebia radiata_222600.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Ascocoryne_cylichnium/2238437064-90583.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Lactarius_salmoneus/Lactarius salmoneus_184678.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Serpula_himantioides/2598726241-279990.JPG,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Ramalina_intermedia/Ramalina intermedia_49177.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Jackrogersella_cohaerens/2542589454-127348.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Exidia_recisa/Exidia recisa_17716.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Neobulgaria_pura/2238480102-317309.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Lecanora_chlarotera/2430666572-346221.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Agaricus_bitorquis/2425492122-343774.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Pseudocraterellus_undulatus/2512875456-274755.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Entoloma_cetratum/2238411176-237777.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Entoloma_formosum/2238419982-313314.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Arachnion_album/Arachnion album_81967.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Ganoderma/Ganoderma_59154.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Pluteus_thomsonii/2238562024-108359.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Phallus_hadriani/2238504813-23671.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Pleurotus_ostreatus/Pleurotus ostreatus_109645.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Coniophora_arida/Coniophora arida_44569.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Cortinarius_stillatitius/2825705306-283712.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Inocybe_whitei/2989719307-371831.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Armillaria/Armillaria_26629.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Heterobasidion_annosum/2874305352-364099.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Morchella_snyderi/Morchella snyderi_235828.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Inocybe_napipes/2825705310-209162.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Ganoderma_oregonense/Ganoderma oregonense_110761.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Platismatia_glauca/2425492810-194646.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Lycoperdon_utriforme/2860305305-210796.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Oxyporus_populinus/2238135888-6904.JPG,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Hygrocybe_miniata/2868485405-213799.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Crepidotus_applanatus/Crepidotus applanatus_233466.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Trametes_versicolor/Trametes versicolor_250734.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Trichoglossum/Trichoglossum_110893.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Symphytocarpus_amaurochaetoides/2237959523-4558.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Xerocomus_lanatus/Xerocomus lanatus_61871.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Mycena_purpureofusca/Mycena purpureofusca_250103.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Xenasma_rimicola/Xenasma rimicola_181968.jpg,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Cortinarius_semisanguineus/2238506323-23920.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Hymenopellis_radicata/2864901391-286800.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Russula/Russula_215654.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Russula_velenovskyi/2238469579-92440.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Galiella_rufa/Galiella rufa_184462.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Lactarius_rubrilacteus/Lactarius rubrilacteus_52510.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Gomphus_clavatus/Gomphus clavatus_179301.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Jackrogersella_cohaerens/2575121644-130131.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Hypoxylon_macrocarpum/2238369157-311298.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Geoglossum_cookeanum/2238090936-228385.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Pleurotus_dryinus/2238093109-80412.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Cortinarius_elatior/2238347897-310271.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Paxillus_involutus/2883258463-67268.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Hygrocybe_chlorophana/2238504861-245758.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Trametes_versicolor/2238492438-21655.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Gyromitra_esculenta/2238491001-243658.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Caulorhiza_umbonata/Caulorhiza umbonata_226927.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Physcia_millegrana/Physcia millegrana_187759.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Pholiota/Pholiota_35964.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Peltigera_didactyla/2575963989-130577.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Russula_densifolia/Russula densifolia_139193.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Parmelia_sulcata/2862690324-137038.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Pluteus_cervinus/2874308509-140253.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Lactarius_fuscomarginatus/Lactarius fuscomarginatus_196544.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Psilocybe/Psilocybe_252613.jpg,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Lanzia_echinophila/2424122470-193989.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Lysurus_mokusin/Lysurus mokusin_232739.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Russula_atropurpurea/2874307420-214519.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Picipes_badius/2238387506-236860.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Leucoagaricus/Leucoagaricus_194889.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Stereum_hirsutum/2964211347-368973.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Lycoperdon_pratense/2238500217-320452.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Marasmius_oreades/Marasmius oreades_62334.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Tubaria_furfuracea/2549106456-276015.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Peziza_echinospora/Peziza echinospora_76650.jpg,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Melogramma_spiniferum/2238141108-7176.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Chlorophyllum_brunneum/Chlorophyllum brunneum_209550.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Cortinarius/Cortinarius_250650.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Calvatia_cyathiformis/Calvatia cyathiformis_141012.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Strobilurus_trullisatus/Strobilurus trullisatus_243955.jpg,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Cuphophyllus_virgineus/2874307448-66285.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Russula_cremoricolor/Russula cremoricolor_154436.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Phyllotopsis_nidulans/Phyllotopsis nidulans_203087.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Coltriciella_dependens/Coltriciella dependens_185192.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Xylodon_radula/2238465307-315546.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Macrotyphula_juncea/2427875769-122110.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Paralepista_flaccida/2238518077-323278.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Leocarpus_fragilis/Leocarpus fragilis_157014.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Triphragmium_ulmariae/2242671732-337417.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Retiboletus_griseus/Retiboletus griseus_162883.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Phaeophyscia_rubropulchra/Phaeophyscia rubropulchra_112363.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Amanita_subspissa/Amanita subspissa_70873.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Trametes_versicolor/2964213395-219095.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Lactarius_rubrocinctus/2237962446-227144.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Geastrum_minimum/Geastrum minimum_108979.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Russula_depallens/2818079346-283022.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Gloeophyllum_sepiarium/2901934382-367287.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Heterobasidion_annosum/2413149690-192378.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Hypholoma_myosotis/2238554920-180931.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Agaricus_pocillator/Agaricus pocillator_141108.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Cortinarius/Cortinarius_247254.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Hygrocybe_miniata/2238514704-99274.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Agrocybe_pediades/Agrocybe pediades_50256.jpg,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Plasmopara_viburni/Plasmopara viburni_214448.jpg,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Cortinarius_corrugatus/Cortinarius corrugatus_241512.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Amanita_fulva/2413149339-118235.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Phellodon_niger/2868476439-138927.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Glutinoglossum_glutinosum/Glutinoglossum glutinosum_29262.jpg,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Macrocystidia_cucumis/Macrocystidia cucumis_234443.jpg,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Oudemansiella_megalospora/Oudemansiella megalospora_161507.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Lecidella_elaeochroma/2238545754-104551.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Cerrena_unicolor/Cerrena unicolor_168253.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Schizopora_paradoxa/Schizopora paradoxa_156764.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Agaricus_augustus/Agaricus augustus_22279.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Diatrypella_favacea/Diatrypella favacea_186378.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Sphaerobolus_stellatus/2424123709-120142.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Cladonia_chlorophaea/2592379965-205440.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Leotia_lubrica/2238527203-27286.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Tricholoma_fulvum/2860297362-360092.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Cantharellus_lateritius/Cantharellus lateritius_77961.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Baeospora_myriadophylla/Baeospora myriadophylla_50799.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Deconica_horizontalis/2238484213-20288.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Clavaria_argillacea/2986455371-296772.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Clitocybe/Clitocybe_12943.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Marasmius_delectans/Marasmius delectans_99513.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Fomitopsis_betulina/2238470109-92502.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Alnicola_suavis/Alnicola suavis_29743.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Baorangia_bicolor/Baorangia bicolor_137126.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Daedalea_quercina/2575120591-278195.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Galerina_marginata/2238053175-153839.JPG,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Lactarius_subdulcis/2901952442-368745.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Lactarius_atrobadius/Lactarius atrobadius_69490.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Hymenochaete_rubiginosa/2864904362-361864.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Stropharia_ambigua/Stropharia ambigua_63558.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Amanita_calyptroderma/Amanita calyptroderma_127144.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Amanita_ceciliae/2862703324-137627.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Russula_subrubens/2238394337-312380.JPG,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Cortinarius_caperatus/Cortinarius caperatus_82609.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Reticularia_lycoperdon/2251780833-40146.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Psathyrella_madeodisca/Psathyrella madeodisca_212682.jpg,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Rhizocybe_pruinosa/Rhizocybe pruinosa_74314.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Hohenbuehelia_fluxilis/2238493976-244004.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Pholiota_velaglutinosa/Pholiota velaglutinosa_47672.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Micarea_lignaria/2964220412-369353.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Crepidotus_cesatii/2238439735-164963.JPG,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Arrhenia_obscurata/2242671661-262196.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Micarea_lignaria/2994406346-297852.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Volvopluteus_gloiocephalus/Volvopluteus gloiocephalus_177210.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Entoloma_pleopodium/2421821527-342447.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Daldinia_concentrica/2521519152-350239.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Gamundia_striatula/Gamundia striatula_66220.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Hygrocybe_russocoriacea/2238091979-80377.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Unguiculariopsis_parasitica/Unguiculariopsis parasitica_208781.jpg,Irrelevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Rubroboletus_eastwoodiae/Rubroboletus eastwoodiae_13373.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Amanita_crocea/Amanita crocea_33265.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Psilocybe_cyanescens/Psilocybe cyanescens_85437.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Armillaria/Armillaria_4483.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Hebeloma/Hebeloma_248119.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Leccinum_longicurvipes/Leccinum longicurvipes_190754.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Amanita_elongatior/Amanita elongatior_186138.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Hypholoma_fasciculare/Hypholoma fasciculare_172750.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Amanita_rubescens/2238509321-246585.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Lycoperdon_utriforme/2427872656-269564.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Volvopluteus_gloiocephalus/Volvopluteus gloiocephalus_151968.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Echinoderma_asperum/Echinoderma asperum_220777.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Trichoderma_aureoviride/2238531338-28230.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Lecidella_elaeochroma/2238546086-252800.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Bjerkandera_adusta/2986446346-296561.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Crepidotus_mollis/2575119500-203990.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Clavaria_argillacea/2238527228-27298.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Coniophora_puteana/2989730358-74150.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Psilocybe_cyanescens/Psilocybe cyanescens_196790.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Phlebia_radiata/2898627439-142579.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Russula_depallens/2382319282-340334.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Mycena_sanguinolenta/2383042806-265814.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Amanita/Amanita_12701.jpg,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Melanoleuca_friesii/2238399064-89083.JPG,Relevant
+/Users/remo/repos/mushroom_master/gathering-data/Model Data/Gliophorus_psittacinus/2237861439-76662.JPG,Relevant

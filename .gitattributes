@@ -1,0 +1,5 @@
+*.tflite filter=lfs diff=lfs merge=lfs -text
+*.db     filter=lfs diff=lfs merge=lfs -text
+*.pkl    filter=lfs diff=lfs merge=lfs -text
+mobile-app/assets/** filter=lfs diff=lfs merge=lfs -text
+gathering-data/Cleaning[[:space:]]Dataset/inference_relevancy_results.csv filter=lfs diff=lfs merge=lfs -text

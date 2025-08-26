@@ -1,0 +1,2 @@
+/Users/remo/repos/mushroom-master/mobile-app/android/app/.cxx/RelWithDebInfo/1p5q3fr4/x86_64/CMakeFiles/edit_cache.dir
+/Users/remo/repos/mushroom-master/mobile-app/android/app/.cxx/RelWithDebInfo/1p5q3fr4/x86_64/CMakeFiles/rebuild_cache.dir

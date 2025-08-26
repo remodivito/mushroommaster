@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/Users/remo/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/remo/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/remo/repos/mushroom-master/mobile-app/android/app/.cxx/RelWithDebInfo/1p5q3fr4/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/remo/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/remo/repos/mushroom-master/mobile-app/android/app/.cxx/RelWithDebInfo/1p5q3fr4/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {},
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/remo/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/remo/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}

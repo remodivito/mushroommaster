@@ -1,0 +1,52 @@
+gathering-data/MO_MI_images
+DF_images/*
+Model_Data/*
+venv_311/*
+relevant_irrelevant_images/*
+relevant_irrelevant_images_1/*
+Cleaning Dataset/Clean_Model_Data/*
+mobile-app/assets/model.tflite
+gathering-data/Danish Fungi/DF20-metadata/DF20-train_metadata_PROD-2.csv
+gathering-data/Cleaning Dataset/inference_relevancy_results.csv
+
+# IDE and OS
+.idea/
+.DS_Store
+
+# Flutter build artifacts
+mobile-app/build/
+mobile-app/ios/Pods/
+mobile-app/ios/.symlinks/
+mobile-app/.dart_tool/
+mobile-app/.flutter-plugins
+mobile-app/.flutter-plugins-dependencies
+
+# Firebase configs (do not commit secrets)
+mobile-app/android/app/google-services.json
+mobile-app/ios/Runner/GoogleService-Info.plist
+
+# Xcode user files
+**/*.xcworkspace/xcuserdata/
+**/*.xcodeproj/xcuserdata/
+**/*.xcuserstate
+
+# CocoaPods
+**/Podfile.lock
+
+# Jupyter
+**/.ipynb_checkpoints/
+**/.ipynb_checkpoints/**
+
+# Python caches
+**/__pycache__/
+**/*.pyc
+
+# macOS
+**/.DS_Store
+
+# Ruby bundler
+.ruby-lsp/.bundle/
+.ruby-lsp/vendor/mobile-app/.idea/
+mobile-app/assets/model.tflite
+gathering-data/Danish Fungi/DF20-metadata/DF20-train_metadata_PROD-2.csv
+

@@ -1,0 +1,15 @@
+stages:
+  - test
+
+flutter_test:
+  stage: test
+  image: cirrusci/flutter:stable
+  script:
+    - flutter pub get
+    - flutter test
+  artifacts:
+    when: always
+    paths:
+      - test/
+    reports:
+      junit: build/test-results/test/*.xml
