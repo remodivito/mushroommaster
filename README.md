@@ -60,3 +60,9 @@ After downloading, place the file in the `mobile-app/assets/` directory.
 - Large model/db assets are tracked with Git LFS.
 
 Contributions are welcome. Open an issue or a PR.
+
+## Gallery
+![0FF7660B-B1A9-47D7-8870-8C0389ADAD04_1_105_c](https://github.com/user-attachments/assets/1fed40e8-796a-424a-905e-40bb64236688)
+![4F57FBCC-1BD2-4BD0-BA9E-2FE094245FA5_1_105_c](https://github.com/user-attachments/assets/fd362345-027a-4c02-8e1f-640daaf9fefd)
+![7AF9ACCB-6B1C-4DCE-AD88-D04CD448EFE7_1_105_c](https://github.com/user-attachments/assets/6a677144-bba6-4b1e-be83-102131179837)
+![58E7C700-36D0-48DF-8D25-C414F156C53D_1_105_c](https://github.com/user-attachments/assets/fad3d533-43bf-43d8-bb5c-563fc1ee8170)
