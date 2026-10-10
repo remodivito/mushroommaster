@@ -1,4 +1,4 @@
-# Mushroom Master
+![Mushroom Master](docs/assets/mushroom-master-banner.jpg)
 
 This repo contains the Mushroom Master app and the code I used to build and evaluate the model and collect the supporting data.
 
@@ -53,6 +53,7 @@ After downloading, place the file in the `mobile-app/assets/` directory.
 - Taxonomy data in the app is based on GBIF, used under CC BY 4.0.
 - Images from the Danish Fungi 2020 dataset were used in training (MycoKey, University of Copenhagen, Danish National History Museum). Source: L. Picek et al., WACV 2022, DOI: 10.48550/arXiv.2103.10107.
 - Some training images were sourced from the Mushroom Observer Machine Learning Dataset (CC BY-SA 3.0): https://mushroomobserver.org/articles/20
+- Header painting: Otto Marseus van Schrieck, [*Forest Floor Still Life with Mushrooms*](https://commons.wikimedia.org/wiki/File:Otto_Marseus_von_Schrieck_Forest_floor_still_life_with_mushrooms.jpg), 17th century. Public domain.
 
 ## Notes
 
